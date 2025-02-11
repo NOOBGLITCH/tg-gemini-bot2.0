@@ -1,4 +1,4 @@
-# tg-gemini-bot
+# tg-gemini 2.0 flash-bot
 
 [EN](README.md) | [简中](README_zh-CN.md) 
 
